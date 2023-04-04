@@ -2,8 +2,8 @@
   "name": "pwa_sample",
   "version": "0.1.0",
   "private": true,
-  "homepage": "",
-  "dependencies": {
+  "homepage": "https://websb777github.io/pwa_sample/",
+    "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -35,7 +35,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "deploy": "npm run build && gh-pages -d build"
-  },
+    },
   "eslintConfig": {
     "extends": [
       "react-app",
